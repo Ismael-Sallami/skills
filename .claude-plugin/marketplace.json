@@ -1,0 +1,13 @@
+{
+  "name": "sallami-skills",
+  "description": "Open-source agent skills and Claude Code plugins by Ismael Sallami.",
+  "owner": { "name": "Ismael Sallami", "url": "https://github.com/Ismael-Sallami" },
+  "plugins": [
+    {
+      "name": "agent-desktop-linux-cursor",
+      "source": { "source": "github", "repo": "Ismael-Sallami/agent-desktop-linux-cursor" },
+      "description": "An isolated Linux desktop for AI agents: private X display, built-in accessibility engine, visible agent cursor, user hand-off and recording.",
+      "category": "automation"
+    }
+  ]
+}
